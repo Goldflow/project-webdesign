@@ -17,3 +17,5 @@
 - foto’s / afbeeldingen hou je op gepaste grootte / resolutie
 - gebruik genoeg (wit)ruimte waar dit gepast is
 - responsive webdesign: website is Mobile First en kan dus zowel op mobiel als op computer in verschillende resoluties op een goeie manier bezocht worden
+- je mag templates gebruiken maar dan is het zeer belangrijk dat je ook meegeeft welke template je gebruikt hebt en dat alle naamgevingen en tekst relevant zijn voor de bed'n blues website
+- integratie favicon [uitleg](./favicon)
