@@ -45,6 +45,6 @@ Ook de eventuele informatie / tekst die in de video moet terecht komen, kunnen z
 - op zijn minste 5 verschillende scènes + 1 begin en 1 eind scene ( 7 totaal )
 - Animeren van uitgeknipte photoshop lagen (bv. parallax effect op zijn minst 1 keer gebruiken - kan hier nog een tutorial van maken)
 - niet langer dan 2 min
-- compressie tot minder dan 100 MB (we moeten Serge vragen om Adobe Media Encoder te installeren op alle PC's of kijken naar gratis alternatieve 
+- compressie tot minder dan 100 MB (we moeten Serge vragen om Adobe Media Encoder te installeren op alle PC's of kijken naar gratis alternatieve
 - letten op leesbaarheid
 - gepaste muziek

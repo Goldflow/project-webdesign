@@ -14,7 +14,13 @@ Ik leg jullie even uit hoe je zelf een favicon kunt toepassen voor jouw website.
 
 Meer Info:
 
+Hier kan je een favicon maken op basis van tekst of een afbeelding (makkelijkst)
+
 https://favicon.io/favicon-generator/
+
+Je kan ook gewoon 1 maken in photoshop
+
+Hieronder nog meer info over favicons
 
 https://stackoverflow.com/questions/1344122/favicon-png-vs-favicon-ico-why-should-i-use-png-instead-of-ico
 
