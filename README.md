@@ -3,8 +3,8 @@
 ## Vereisten
 
 - wanneer je op de site komt is het meteen duidelijk over wat de website gaat
-- crëeren van nieuw logo voor het verhuren van fietsen (dus hergebruik niet het bestaande logo)
-- crëeren van nieuw logo voor de wellness (dus hergebruik niet het bestaande logo)
+- crëeren van nieuw logo voor het verhuren van fietsen 
+- crëeren van nieuw logo voor de wellness
 - eigen gemaakte huisstijl / style guide toepassen op website
 - website is upgeload in Github
 - website is gehost via Netlify
@@ -20,7 +20,6 @@
 - responsive webdesign: website is Mobile First en kan dus zowel op mobiel als op computer in verschillende resoluties op een goeie manier bezocht worden
 - je mag templates gebruiken maar dan is het zeer belangrijk dat je ook meegeeft welke template je gebruikt hebt en dat alle naamgevingen en tekst relevant zijn voor de bed'n blues website
 - integratie favicon [uitleg](./favicon)
-- gebruik ergens een video achtergrond ([zie hier hoe dit te doen](./video-background))
 
 [Link naar Briefing Presentatie](briefing-presentatie.pdf)
 
