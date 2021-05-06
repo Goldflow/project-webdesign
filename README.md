@@ -45,6 +45,12 @@
 - gepaste muziek
 - duidelijk begin & duidelijk einde
 
-enkele voorbeeld van een "scène":
+- gebruik ook naar keuze 1 of meerdere van volgende technieken in mate dat dit past bij jou video (en laat ook weten waar je dit gebruikt hebt)
+
+  - [Time Remapping (manipuleren van tijd, video sneller of trager laten afspelen)](https://goldflow.github.io/photoshop-courses/les6/#42-time-remapping)
+  - [Leave Color (enkel 1 kleur overlaten)](https://goldflow.github.io/photoshop-courses/les6/#41-enkel-kleur-overlaten)
+  - [Basis Animatie in een richting (mag ook roteren of zoomen zijn)](https://goldflow.github.io/photoshop-courses/les6/#basis-animatie-in-een-richting)
+
+voorbeeld van een "scène":
 
 ![ ](keuken.gif)
