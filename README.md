@@ -54,3 +54,15 @@
 voorbeeld van een "scène":
 
 ![ ](keuken.gif)
+
+---
+
+In deze website kan je een voorbeeld vinden van wat ik min of meer verwacht.
+
+[https://practical-colden-257fe5.netlify.app/](https://practical-colden-257fe5.netlify.app/)
+
+De overgangen en animaties zijn ok. Echter wat niet goed is in onderstaande video is dat niet dezelfde lettertypes en kleuren zijn gebruikt als op de website, terwijl dit wel van belang is.
+
+De laatste scène met het parallax effect is goed gedaan.
+
+Hier hoor je ook dat de muziek eerder past bij iets spannend, terwijl dit meer een informatieve video is.
