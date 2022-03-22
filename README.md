@@ -39,7 +39,7 @@
 
 [Link naar Project Webdesign op Smartschool](https://cvobrussel.smartschool.be/index.php?module=News&file=coursenews&function=main&courseID=11584&ssID=1711)
 
-[Link naar Briefing Overzicht](Project webdesign_Briefing_presentatie_2022.pdf)
+[Link naar Briefing Overzicht](Project_webdesign_Briefing_presentatie_2022.pdf)
   
 ## Indienen
 
