@@ -10,9 +10,12 @@
   - Git Client
 - HTML herhaling
 - CSS herhaling
+- JavaScript herhaling
+- Toepassen van CMS functionaliteit
 
 ## Technische Vereisten
 
+- navigatie moet duidelijk en goed zijn
 - wanneer je op de site komt is het meteen duidelijk over wat de website gaat
 - crëeren van nieuw logo voor het verhuren van fietsen 
 - crëeren van nieuw logo voor de wellness
