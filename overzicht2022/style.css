@@ -1,5 +1,22 @@
-ul {
-    list-style-type: none;
-    padding: 5px;
-    border-bottom: 2px lightgrey solid;
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.info-style span {
+    color: blue;
+}
+
+.profiel-lijst {
+    font-weight: bold;
+}
+
+a:hover {
+    background-color: blue;
+    color: white;
+}
+
+a.niet-goed {
+    color: gray;
+    font-weight: normal;
+    font-style: italic;
 }
