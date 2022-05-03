@@ -17,16 +17,18 @@
 
 - navigatie moet duidelijk en goed zijn
 - wanneer je op de site komt is het meteen duidelijk over wat de website gaat
-- crëeren van nieuw logo voor het verhuren van fietsen 
-- crëeren van nieuw logo voor de wellness
-- style guide toepassen op website
+- crëeren van nieuw logo is aangewezen
+- style guide toepassen op website (moodboard/kleuren)
 - website is upgeload in Github
 - website staat online
 - testen in diverse browsers / devices
+  - responsive
+  - is leesbaar op PC
+  - werkt ook op GSM
 - Alle HTML in alle pagina’s moet volledig valid zijn volgens W3 regels. Anders wordt de website niet verbeterd; zie sectie Praktisch Advies
 - alle links werken (naar externe websites, foto's, video's)
-  - links naar emails openen automatisch de email client van de gebruiker
-  - links naar telefoon nummers openen automatisch telefoon van de gebruiker (indien op mobiel) 
+  - links naar emails openen automatisch de email client van de gebruiker (gebruik `mailto:`)
+  - links naar telefoon nummers openen automatisch telefoon van de gebruiker (indien op mobiel, gebruik `tel:`) 
 - het is duidelijk voor de gebruiker wat interactief is (links etc.) met behulp van aangepaste opmaak
 - Regels voor CSS
   - geen inline CSS 
@@ -66,6 +68,8 @@ Daarnaast moet je ook:
 Bekijk ook zeker deze cursus & de pagina https://www.studieanker.be/html/ voor meer info.
 
 Het is de bedoeling dat iedereen ook gebruik maakt van het forum van Project Webdesign, om zowel dingen te delen als vragen te stellen, en dat de cursisten elkaar dan kunnen helpen.
+  
+  [LINK FORUM](https://cvobrussel.smartschool.be/index.php?module=Forum&file=showforum&function=main&courseID=11584&ssID=1711)
 
 Je mag natuurlijk ons nog steeds aanspreken, maar maak gebruik van het forum van Project Webdesign zodat het antwoord te zien kan zijn voor alle cursisten.
 Als we dan een vraag oplossen / beantwoorden, kunnen je collegacursisten later ook zien hoe hun probleem op te lossen.
